@@ -49,3 +49,9 @@ hs_err_pid*
 out
 gen
 /.idea/
+/target/
+src/main/java/com/gzsg/microStore/config/
+src/main/java/com/gzsg/microStore/customer/
+src/main/java/com/gzsg/microStore/manage/
+src/main/resources/
+/.idea/
